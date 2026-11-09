@@ -1,0 +1,7 @@
+order_id,order_date,customer_name,customer_email,items,order_total,promo_code,campaign_id,utm_source,utm_medium,utm_campaign,match_status
+ORD-80F314D1,2026-10-27T02:35:51.415490+00:00,lilly,lilly@gmail.com,Classic Red Hot Sauce x1,8.99,PROMO1,FM2026-001,chatgpt.com,qr,fall_market,Pending
+ORD-3309A398,2026-10-27T04:30:39.646588+00:00,kevin,kevin@gmail.com,Classic Red Hot Sauce x2; Mango Habanero x1,28.97,,,,,,Pending
+ORD-0D6696D8,2026-10-27T04:58:26.358039+00:00,jonny,jonny@gmail.com,Classic Red Hot Sauce x1,8.99,,CMP-37D70B72,farmers_market,qr,fall_2026_farmers_market_campaign,Pending
+ORD-E23D3F19,2026-10-27T05:06:08.595629+00:00,puppy,pup.123@gmail.com,Mango Habanero x1; Smoky Chipotle x1,20.98,HOT8F6E22,,,,,Pending
+ORD-473BE261,2026-10-27T05:17:56.447358+00:00,julie,lie@gmail.com,Mango Habanero x3,32.97,,CMP-9CE8E2E2,influencer,influencer,instagram_fall_promotion_2026,Pending
+ORD-C6C86F9E,2026-10-27T05:19:02.255535+00:00,benny,ben@gmail.com,Smoky Chipotle x1,9.99,HOT6F9CEC,,,,,Pending
